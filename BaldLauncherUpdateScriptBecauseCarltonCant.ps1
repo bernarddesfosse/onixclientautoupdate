@@ -21,23 +21,21 @@ if (Test-Path -Path $launcherFolderPath) {
 
 if (Test-Path -Path $dllPath) {
     Write-Host "Deleting old version from the launcher..."
-    try {
-        Remove-Item $dllPath -Force
-        Write-Host "Deleted the old dll!"
-    } catch {
+    Remove-Item $dllPath -Force -ErrorVariable removeItemResult1 2> $removeItemResult1IDC
+    if ($removeItemResult1.Count -gt 0) {
         Write-Host "Could not delete the file, Trying to close the game and launcher."
         taskkill.exe /f /im Minecraft.Windows.exe
         taskkill.exe /f /im OnixLauncher.exe
         Start-Sleep 1
-        try {
-            Remove-Item $dllPath -Force
-            Write-Host "Deleted the old dll!"
-        } catch {
+
+        Remove-Item $dllPath -Force -ErrorVariable removeItemResult2 2> $removeItemResult2IDC
+        if ($removeItemResult2.Count -gt 0) {
             Write-Host "Could not delete the file, Maybe try restarting?"
             Pause
             Exit
         }
     }
+    Write-Host "Deleted the old dll!"
 } else {
     Write-Host "Dll is already gone, great!"
 }
