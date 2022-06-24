@@ -42,7 +42,7 @@ if (Test-Path -Path $dllPath) {
 
 Write-Host "Downloading the brand new OnixClient dll"
 try {
-    Invoke-WebRequest -Uri "https://github.com/bernarddesfosse/onixclientautoupdate/raw/main/OnixClient.dll" -OutFile $dllPath
+    Invoke-RestMethod -Uri "https://github.com/bernarddesfosse/onixclientautoupdate/raw/main/OnixClient.dll" -OutFile $dllPath
     Write-Host("New dll finished downloading")
 } catch {
     Write-Host("Could not download the new dll, check internet.")
