@@ -50,9 +50,9 @@
             "name": "NetherGames",
             "icon": "server_nethergaymes",
             "ips": [
-                "play.nethergames.org"
-                "eu.nethergames.org"
-                "us.nethergames.org"
+                "play.nethergames.org",
+                "eu.nethergames.org",
+                "us.nethergames.org",
                 "as.nethergames.org"
             ]
         },
