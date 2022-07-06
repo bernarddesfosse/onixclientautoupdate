@@ -1,7 +1,7 @@
 {
     "servers": [
         {
-            "name": "Cubecraft",
+            "name": "CubeCraft",
             "icon": "server_cubecraft",
             "ips": [
                 "mco.cubecraft.net"
@@ -40,7 +40,7 @@
             ]
         },
         {
-            "name": "Liveboat",
+            "name": "Lifeboat",
             "icon": "server_lifeboat",
             "ips": [
                 "mco.lbsg.net"
@@ -51,6 +51,9 @@
             "icon": "server_nethergaymes",
             "ips": [
                 "play.nethergames.org"
+                "eu.nethergames.org"
+                "us.nethergames.org"
+                "as.nethergames.org"
             ]
         },
         {
