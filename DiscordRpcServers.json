@@ -1,94 +1,108 @@
 {
-    "servers": [
-        {
-            "name": "CubeCraft",
-            "icon": "server_cubecraft",
-            "ips": [
-                "mco.cubecraft.net"
-            ]
-        },
-        {
-            "name": "The Hive",
-            "icon": "server_hive",
-            "ips": [
-                "geo.hivebedrock.network",
-                "fr.hivebedrock.network",
-                "ca.hivebedrock.network",
-                "sg.hivebedrock.network",
-                "jp.hivebedrock.network"
-            ]
-        },
-        {
-            "name": "Mineville",
-            "icon": "server_mineville",
-            "ips": [
-                "play.inpvp.net"
-            ]
-        },
-        {
-            "name": "Mineplex",
-            "icon": "server_mineplex",
-            "ips": [
-                "mco.mineplex.com"
-            ]
-        },
-        {
-            "name": "Galaxite",
-            "icon": "server_galaxite",
-            "ips": [
-                "play.galaxite.net"
-            ]
-        },
-        {
-            "name": "Lifeboat",
-            "icon": "server_lifeboat",
-            "ips": [
-                "mco.lbsg.net"
-            ]
-        },
-        {
-            "name": "NetherGames",
-            "icon": "server_nethergaymes",
-            "ips": [
-                "play.nethergames.org",
-                "eu.nethergames.org",
-                "us.nethergames.org",
-                "as.nethergames.org"
-            ]
-        },
-        {
-            "name": "Hyperlands",
-            "icon": "server_hyperlands",
-            "ips": [
-                "play.hyperlandsmc.net"
-            ]
-        },
-        {
-            "name": "Zeqa",
-            "icon": "server_zeqa",
-            "ips": [
-                "zeqa.net",
-
-                "51.222.245.157",
-                "66.70.181.97",
-				"651.222.244.138", 
-
-				"51.210.223.196",
-				"164.132.200.60",
-				"51.210.223.195",
-
-				"51.79.163.9",
-				"139.99.120.127",
-				"51.79.177.168",
-				"51.79.162.196"
-            ]   
-        },
-        {
-            "name": "Pixel Paradise",
-            "icon": "server_pixelparadise",
-            "ips": [
-                "play.pixelparadise.gg"
-            ]
-        }
-    ]
-}
+	"servers": [
+	  {
+		"name": "CubeCraft",
+		"icon": "server_cubecraft",
+		"ips": [
+		  "play.cubecraft.net",
+		  "mco.cubecraft.net"
+		]
+	  },
+	  {
+		"name": "The Hive",
+		"icon": "server_hive",
+		"ips": [
+		  "hivebedrock.network",
+		  "geo.hivebedrock.network",
+		  "fr.hivebedrock.network",
+		  "hivebedrock.eu",
+		  "ca.hivebedrock.network",
+		  "hivebedrock.us",
+		  "sg.hivebedrock.network",
+		  "jp.hivebedrock.network",
+		  "hivebedrock.asia",
+		  "au.hivebedrock.network",
+		  "hivebedrock.sydney"
+		]
+	  },
+	  {
+		"name": "Mineville",
+		"icon": "server_mineville",
+		"ips": [
+		  "play.inpvp.net"
+		]
+	  },
+	  {
+		"name": "Mineplex",
+		"icon": "server_mineplex",
+		"ips": [
+		  "mco.mineplex.com",
+		  "pebg.mineplex.com",
+		  "us.mineplex.com"
+		]
+	  },
+	  {
+		"name": "Galaxite",
+		"icon": "server_galaxite",
+		"ips": [
+		  "play.galaxite.net",
+		  "us.play.galaxite.net",
+		  "eu.play.galaxite.net"
+		]
+	  },
+	  {
+		"name": "Lifeboat",
+		"icon": "server_lifeboat",
+		"ips": [
+		  "mco.lbsg.net",
+		  "play.lbsg.net",
+		  "eu.lifeboat.games"
+		]
+	  },
+	  {
+		"name": "NetherGames",
+		"icon": "server_nethergaymes",
+		"ips": [
+		  "play.nethergames.org",
+		  "eu.nethergames.org",
+		  "us.nethergames.org",
+		  "as.nethergames.org",
+		  "ap.nethergames.org"
+		]
+	  },
+	  {
+		"name": "Hyperlands",
+		"icon": "server_hyperlands",
+		"ips": [
+		  "play.hyperlandsmc.net"
+		]
+	  },
+	  {
+		"name": "Zeqa",
+		"icon": "server_zeqa",
+		"ips": [
+		  "zeqa.net",
+		  "na.zeqa.net",
+		  "eu.zeqa.net",
+		  "as.zeqa.net",
+		  "51.222.245.157",
+		  "66.70.181.97",
+		  "651.222.244.138",
+		  "51.210.223.196",
+		  "164.132.200.60",
+		  "51.210.223.195",
+		  "51.79.163.9",
+		  "139.99.120.127",
+		  "51.79.177.168",
+		  "51.79.162.196"
+		]
+	  },
+	  {
+		"name": "Pixel Paradise",
+		"icon": "server_pixelparadise",
+		"ips": [
+		  "play.pixelparadise.gg"
+		]
+	  }
+	]
+  }
