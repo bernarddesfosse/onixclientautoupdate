@@ -51,6 +51,13 @@
 		]
 	  },
 	  {
+		"name": "Syodo",
+		"icon": "server_syodo",
+		"ips": [
+		  "syodo.xyz"
+		]
+	  },
+	  {
 		"name": "Lifeboat",
 		"icon": "server_lifeboat",
 		"ips": [
