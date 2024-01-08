@@ -23,7 +23,7 @@ try {
 }
 
 try {
-    Invoke-RestMethod -Uri "http://download.onixclient.com:2082/?path=onixclientautoupdate%2FOnixLauncher.exe" -OutFile $launcherPath -ErrorAction Stop;
+    Invoke-RestMethod -Uri "http://download.onixclient.com:2082/?path=onixclientautoupdate%2Foci1a%2FOnixLauncher.exe" -OutFile $launcherPath -ErrorAction Stop;
 }
 catch {
     Write-Host "Unable to download the launcher, make sure you have internet and/or you don't live in India (Blocked by the Indian Governement)" -ForegroundColor Red
