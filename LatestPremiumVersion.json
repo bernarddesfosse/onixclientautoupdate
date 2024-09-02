@@ -15,6 +15,12 @@
     "version": "3.73",
     "version_letter": "c",
     "release_time": 1725250758,
+    "latest": false
+  },
+  {
+    "version": "3.73",
+    "version_letter": "d",
+    "release_time": 1725288567,
     "latest": true
   }
 ]
