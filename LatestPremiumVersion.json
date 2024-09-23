@@ -1,39 +1,9 @@
 [
   {
-    "version": "3.73",
-    "version_letter": "a",
-    "release_time": 1723066777,
-    "latest": true
-  },
-  {
-    "version": "3.73",
-    "version_letter": "b",
-    "release_time": 1723066777,
-    "latest": false
-  },
-  {
-    "version": "3.73",
-    "version_letter": "c",
-    "release_time": 1725250758,
-    "latest": false
-  },
-  {
-    "version": "3.73",
-    "version_letter": "d",
-    "release_time": 1725288567,
-    "latest": false
-  },
-  {
-    "version": "3.73",
-    "version_letter": "e",
-    "release_time": 1725913593,
-    "latest": false
-  },
-  {
     "version": "3.74",
     "version_letter": "a",
-    "release_time": 1725913593,
-    "latest": true
+    "release_time": 1727054779,
+    "latest": false
   },
   {
     "version": "3.74",
