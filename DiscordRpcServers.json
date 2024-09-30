@@ -33,15 +33,6 @@
 		]
 	  },
 	  {
-		"name": "Mineplex",
-		"icon": "server_mineplex",
-		"ips": [
-		  "mco.mineplex.com",
-		  "pebg.mineplex.com",
-		  "us.mineplex.com"
-		]
-	  },
-	  {
 		"name": "Galaxite",
 		"icon": "server_galaxite",
 		"ips": [
@@ -68,20 +59,13 @@
 	  },
 	  {
 		"name": "NetherGames",
-		"icon": "server_nethergaymes",
+		"icon": "server_nethergames",
 		"ips": [
 		  "play.nethergames.org",
 		  "eu.nethergames.org",
 		  "us.nethergames.org",
 		  "as.nethergames.org",
 		  "ap.nethergames.org"
-		]
-	  },
-	  {
-		"name": "Hyperlands",
-		"icon": "server_hyperlands",
-		"ips": [
-		  "play.hyperlandsmc.net"
 		]
 	  },
 	  {
@@ -102,13 +86,6 @@
 		  "139.99.120.127",
 		  "51.79.177.168",
 		  "51.79.162.196"
-		]
-	  },
-	  {
-		"name": "Pixel Paradise",
-		"icon": "server_pixelparadise",
-		"ips": [
-		  "play.pixelparadise.gg"
 		]
 	  },
 	  {
