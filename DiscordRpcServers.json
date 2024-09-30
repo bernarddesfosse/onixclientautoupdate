@@ -110,6 +110,13 @@
 		"ips": [
 		  "play.pixelparadise.gg"
 		]
+	  },
+	  {
+		"name": "LydoxMC",
+		"icon": "server_lydoxmc",
+		"ips": [
+		  "lydoxmc.net"
+		]
 	  }
 	]
   }
