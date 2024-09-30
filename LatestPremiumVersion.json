@@ -16,5 +16,11 @@
     "version_letter": "c",
     "release_time": 1727054779,
     "latest": true
+  },
+  {
+    "version": "3.74",
+    "version_letter": "e",
+    "release_time": 1727054779,
+    "latest": false
   }
 ]
