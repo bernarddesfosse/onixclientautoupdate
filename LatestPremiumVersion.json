@@ -28,5 +28,11 @@
     "version_letter": "a",
     "release_time": 1728606963,
     "latest": true
+  },
+  {
+    "version": "3.75",
+    "version_letter": "b",
+    "release_time": 1729821648,
+    "latest": true
   }
 ]
