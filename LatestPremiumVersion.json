@@ -8,7 +8,13 @@
   {
     "version": "3.78",
     "version_letter": "a",
-    "release_time": 1739480431,
+    "release_time": 1740084235,
+    "latest": false
+  },
+  {
+    "version": "3.78",
+    "version_letter": "b",
+    "release_time": 1740084235,
     "latest": true
   }
 ]
