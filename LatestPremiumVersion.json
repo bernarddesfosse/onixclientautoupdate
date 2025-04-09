@@ -2,19 +2,25 @@
   {
     "version": "3.78",
     "version_letter": "b",
-    "release_time": 1740084235,
-    "latest": true
+    "release_time": 1744159078,
+    "latest": false
   },
   {
     "version": "3.78",
     "version_letter": "c",
-    "release_time": 1740084235,
-    "latest": true
+    "release_time": 1744159078,
+    "latest": false
   },
   {
     "version": "3.78",
     "version_letter": "d",
-    "release_time": 1740084235,
+    "release_time": 1744159078,
+    "latest": false
+  },
+  {
+    "version": "3.78",
+    "version_letter": "e",
+    "release_time": 1744159078,
     "latest": true
   }
 ]
