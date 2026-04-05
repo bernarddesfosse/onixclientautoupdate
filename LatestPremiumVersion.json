@@ -1,20 +1,14 @@
 [
   {
     "version": "3.79",
-    "version_letter": "c",
-    "release_time": 1772069512,
-    "latest": false
-  },
-  {
-    "version": "3.79",
-    "version_letter": "d",
-    "release_time": 1772316328,
-    "latest": false
-  },
-  {
-    "version": "3.79",
     "version_letter": "e",
-    "release_time": 1772316328,
+    "release_time": 1775402780,
+    "latest": false
+  },
+  {
+    "version": "3.79",
+    "version_letter": "f",
+    "release_time": 1775402780,
     "latest": true
   }
 ]
