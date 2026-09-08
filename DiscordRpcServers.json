@@ -12,6 +12,7 @@
 		"name": "The Hive",
 		"icon": "server_hive",
 		"ips": [
+		  "geo.hivebedrock.cloud",
 		  "hivebedrock.network",
 		  "geo.hivebedrock.network",
 		  "fr.hivebedrock.network",
